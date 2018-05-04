@@ -1,0 +1,56 @@
+/* https://color.adobe.com/cloud/aHR0cHM6Ly9jYy1hcGktYXNzZXRzLmFkb2JlLmlv/library/56b97d61-b491-42b1-8596-44bfb7118a34/theme/679c473e-1518-4fcd-8da9-b33f0f354653/edit/ */
+
+/* Utilities */
+.pd-tp-md{
+    padding-top: 20px;
+}
+
+.pd-tp-lg{
+    padding-top: 50px;    
+}
+
+
+body{
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    color: rgb(166, 140, 161);
+
+}
+
+
+#header{
+    min-height: 700px;
+
+}
+
+#header-content{
+
+    background:url("Main-banner-1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 700px;
+    position: relative;
+
+}
+
+.home-content{
+    text-align: center;
+    padding-top:;
+}
+
+
+
+
+.tab-pane{
+    min-height: 500px;
+}
+
+#contact{
+    min-height: 200px;
+    background-color: #565656;
+}
+
+
+
