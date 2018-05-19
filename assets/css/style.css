@@ -36,16 +36,36 @@ body{
 }
 
 
-
+.audio-title{
+    color: white;
+    text-transform: uppercase;
+}
 
 .tab-pane{
     min-height: 500px;
 }
 
-#contact{
-    min-height: 200px;
-    background-color: #565656;
+.player-container{
+    margin-top: 80px;
+    border: solid 1px orange;
+    padding: 5px;
+    transition: all .5s;
+
 }
 
+.player-container:hover{
+    -webkit-box-shadow: -21px -10px 40px -3px rgba(65,207,33,1);
+-moz-box-shadow: -21px -10px 40px -3px rgba(65,207,33,1);
+box-shadow: -21px -10px 40px -3px rgba(65,207,33,1);
+
+}
+
+.audio-player{
+    width: 100%;
+}
+
+.audio-title{
+    text-align: center;
+}
 
 
