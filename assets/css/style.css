@@ -9,6 +9,16 @@
     padding-top: 50px;    
 }
 
+.pending-header{
+    text-align: center;
+    color: white;
+    padding-top: 80px;
+}
+
+audio{
+    color: black;
+}
+
 
 body{
     background-color: black;
@@ -39,6 +49,8 @@ body{
 .audio-title{
     color: white;
     text-transform: uppercase;
+    border-bottom: solid 1px orange;
+    text-align: left!important;
 }
 
 .tab-pane{
@@ -64,8 +76,16 @@ box-shadow: -21px -10px 40px -3px rgba(65,207,33,1);
     width: 100%;
 }
 
+.audio-player a{
+    color: blue;
+}
+
 .audio-title{
     text-align: center;
+}
+
+.audio-description{
+    color: white;
 }
 
 
