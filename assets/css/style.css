@@ -58,7 +58,8 @@ body{
 }
 
 .player-container{
-    margin-top: 80px;
+    margin-top: 30px;
+    margin-bottom: 5px;
     border: solid 1px orange;
     padding: 5px;
     transition: all .5s;
